@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: tagae
 ---
 
-I'm glad you are here. I plan to talk about ...
+* Moving away from Docker Desktop
+* 
